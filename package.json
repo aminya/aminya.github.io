@@ -1,0 +1,12 @@
+{
+  "name": "aminya.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages --dist ./dist"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
