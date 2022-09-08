@@ -1,0 +1,6 @@
+Propetory LICENSE
+
+Copyright (c) 2021-2100 Amin Yahyaabadi
+
+Copying, modification, redistributition, sublicensing, or selling of this website or its content without an explicit permission is NOT allowed.
+
