@@ -18,7 +18,7 @@
 │  ├─ publisher: Rafid Muhymin
 │  ├─ path: .\node_modules\astro-imagetools
 │  └─ licenseFile: node_modules\astro-imagetools\README.md
-├─ bootstrap@5.2.0
+├─ bootstrap@5.2.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/twbs/bootstrap
 │  ├─ publisher: The Bootstrap Authors
