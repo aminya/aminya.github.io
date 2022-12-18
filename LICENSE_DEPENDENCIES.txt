@@ -1,4 +1,4 @@
-├─ @fortawesome/fontawesome-free@6.2.0
+├─ @fortawesome/fontawesome-free@6.2.1
 │  ├─ licenses: (CC-BY-4.0 AND OFL-1.1 AND MIT)
 │  ├─ repository: https://github.com/FortAwesome/Font-Awesome
 │  ├─ publisher: The Font Awesome Team
@@ -12,20 +12,20 @@
 │  ├─ email: aminyahyaabadi74@gmail.com
 │  ├─ path: .
 │  └─ licenseFile: LICENSE.txt
-├─ astro-imagetools@0.6.10
+├─ astro-imagetools@0.6.17
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/RafidMuhymin/astro-imagetools
 │  ├─ publisher: Rafid Muhymin
 │  ├─ path: .\node_modules\astro-imagetools
 │  └─ licenseFile: node_modules\astro-imagetools\README.md
-├─ bootstrap@5.2.1
+├─ bootstrap@5.2.3
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/twbs/bootstrap
 │  ├─ publisher: The Bootstrap Authors
 │  ├─ url: https://github.com/twbs/bootstrap/graphs/contributors
 │  ├─ path: .\node_modules\bootstrap
 │  └─ licenseFile: node_modules\bootstrap\LICENSE
-└─ solid-js@1.5.4
+└─ solid-js@1.6.5
    ├─ licenses: MIT
    ├─ repository: https://github.com/solidjs/solid
    ├─ publisher: Ryan Carniato
