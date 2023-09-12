@@ -5,7 +5,7 @@
 │  ├─ url: https://github.com/orgs/FortAwesome/people
 │  ├─ path: /media/aminya/Linux/GitHub/aminya-website/node_modules/@fortawesome/fontawesome-free
 │  └─ licenseFile: node_modules/@fortawesome/fontawesome-free/LICENSE.txt
-├─ aminya.github.io@1.1.0
+├─ aminya.github.io@1.1.1
 │  ├─ licenses: Custom: https://github.com/aminya/aminya/raw/main/Amin-Yahyaabadi-CV.pdf
 │  ├─ repository: https://github.com/aminya/aminya.github.io
 │  ├─ publisher: Amin Yahyaabadi
