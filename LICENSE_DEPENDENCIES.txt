@@ -1,33 +1,33 @@
-├─ @fortawesome/fontawesome-free@6.2.1
+├─ @fortawesome/fontawesome-free@6.4.2
 │  ├─ licenses: (CC-BY-4.0 AND OFL-1.1 AND MIT)
 │  ├─ repository: https://github.com/FortAwesome/Font-Awesome
 │  ├─ publisher: The Font Awesome Team
 │  ├─ url: https://github.com/orgs/FortAwesome/people
-│  ├─ path: .\node_modules\@fortawesome\fontawesome-free
-│  └─ licenseFile: node_modules\@fortawesome\fontawesome-free\LICENSE.txt
-├─ aminya.github.io@1.0.0
+│  ├─ path: ./node_modules/@fortawesome/fontawesome-free
+│  └─ licenseFile: node_modules/@fortawesome/fontawesome-free/LICENSE.txt
+├─ aminya.github.io@1.1.1
 │  ├─ licenses: Custom: https://github.com/aminya/aminya/raw/main/Amin-Yahyaabadi-CV.pdf
 │  ├─ repository: https://github.com/aminya/aminya.github.io
 │  ├─ publisher: Amin Yahyaabadi
 │  ├─ email: aminyahyaabadi74@gmail.com
 │  ├─ path: .
 │  └─ licenseFile: LICENSE.txt
-├─ astro-imagetools@0.6.17
+├─ astro-imagetools@0.9.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/RafidMuhymin/astro-imagetools
 │  ├─ publisher: Rafid Muhymin
-│  ├─ path: .\node_modules\astro-imagetools
-│  └─ licenseFile: node_modules\astro-imagetools\README.md
-├─ bootstrap@5.2.3
+│  ├─ path: ./node_modules/astro-imagetools
+│  └─ licenseFile: node_modules/astro-imagetools/README.md
+├─ bootstrap@5.3.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/twbs/bootstrap
 │  ├─ publisher: The Bootstrap Authors
 │  ├─ url: https://github.com/twbs/bootstrap/graphs/contributors
-│  ├─ path: .\node_modules\bootstrap
-│  └─ licenseFile: node_modules\bootstrap\LICENSE
-└─ solid-js@1.6.5
+│  ├─ path: ./node_modules/bootstrap
+│  └─ licenseFile: node_modules/bootstrap/LICENSE
+└─ solid-js@1.7.11
    ├─ licenses: MIT
    ├─ repository: https://github.com/solidjs/solid
    ├─ publisher: Ryan Carniato
-   ├─ path: .\node_modules\solid-js
-   └─ licenseFile: node_modules\solid-js\LICENSE
+   ├─ path: ./node_modules/solid-js
+   └─ licenseFile: node_modules/solid-js/LICENSE
