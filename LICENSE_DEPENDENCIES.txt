@@ -10,7 +10,7 @@
 │  ├─ repository: https://github.com/tailwindlabs/tailwindcss-typography
 │  ├─ path: /home/runner/work/website/website/node_modules/@tailwindcss/typography
 │  └─ licenseFile: node_modules/@tailwindcss/typography/LICENSE
-├─ aminya.github.io@2.0.0
+├─ aminya.github.io@2.0.1
 │  ├─ licenses: Custom: https://github.com/aminya/aminya/raw/main/Amin-Yahyaabadi-CV.pdf
 │  ├─ repository: https://github.com/aminya/aminya.github.io
 │  ├─ publisher: Amin Yahyaabadi
