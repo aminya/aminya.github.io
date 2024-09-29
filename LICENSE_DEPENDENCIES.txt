@@ -5,7 +5,7 @@
 │  ├─ url: https://github.com/orgs/FortAwesome/people
 │  ├─ path: /home/runner/work/website/website/node_modules/@fortawesome/fontawesome-free
 │  └─ licenseFile: node_modules/@fortawesome/fontawesome-free/LICENSE.txt
-├─ @tailwindcss/typography@0.5.14
+├─ @tailwindcss/typography@0.5.15
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/tailwindlabs/tailwindcss-typography
 │  ├─ path: /home/runner/work/website/website/node_modules/@tailwindcss/typography
@@ -17,13 +17,13 @@
 │  ├─ email: aminyahyaabadi74@gmail.com
 │  ├─ path: /home/runner/work/website/website
 │  └─ licenseFile: LICENSE.txt
-├─ solid-js@1.8.21
+├─ solid-js@1.9.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/solidjs/solid
 │  ├─ publisher: Ryan Carniato
 │  ├─ path: /home/runner/work/website/website/node_modules/solid-js
 │  └─ licenseFile: node_modules/solid-js/LICENSE
-└─ tailwindcss@3.4.10
+└─ tailwindcss@3.4.13
    ├─ licenses: MIT
    ├─ repository: https://github.com/tailwindlabs/tailwindcss
    ├─ path: /home/runner/work/website/website/node_modules/tailwindcss
