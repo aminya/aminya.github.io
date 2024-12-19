@@ -17,6 +17,12 @@
 │  ├─ email: aminyahyaabadi74@gmail.com
 │  ├─ path: /home/runner/work/website/website
 │  └─ licenseFile: LICENSE.txt
+├─ latex.css@1.12.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vincentdoerig/latex-css
+│  ├─ publisher: Vincent Dörig
+│  ├─ path: /home/runner/work/website/website/node_modules/latex.css
+│  └─ licenseFile: node_modules/latex.css/LICENSE
 ├─ solid-js@1.9.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/solidjs/solid
