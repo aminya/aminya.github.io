@@ -1,11 +1,67 @@
-├─ @fortawesome/fontawesome-free@6.6.0
+├─ @alloc/quick-lru@5.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/quick-lru
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /home/runner/work/website/website/node_modules/@alloc/quick-lru
+│  └─ licenseFile: node_modules/@alloc/quick-lru/license
+├─ @esbuild/linux-x64@0.28.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/evanw/esbuild
+│  ├─ path: /home/runner/work/website/website/node_modules/@esbuild/linux-x64
+│  └─ licenseFile: node_modules/@esbuild/linux-x64/README.md
+├─ @fortawesome/fontawesome-free@7.3.1
 │  ├─ licenses: (CC-BY-4.0 AND OFL-1.1 AND MIT)
 │  ├─ repository: https://github.com/FortAwesome/Font-Awesome
 │  ├─ publisher: The Font Awesome Team
 │  ├─ url: https://github.com/orgs/FortAwesome/people
 │  ├─ path: /home/runner/work/website/website/node_modules/@fortawesome/fontawesome-free
 │  └─ licenseFile: node_modules/@fortawesome/fontawesome-free/LICENSE.txt
-├─ @tailwindcss/typography@0.5.15
+├─ @jridgewell/gen-mapping@0.3.13
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jridgewell/sourcemaps
+│  ├─ publisher: Justin Ridgewell
+│  ├─ email: justin@ridgewell.name
+│  ├─ path: /home/runner/work/website/website/node_modules/@jridgewell/gen-mapping
+│  └─ licenseFile: node_modules/@jridgewell/gen-mapping/LICENSE
+├─ @jridgewell/resolve-uri@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jridgewell/resolve-uri
+│  ├─ publisher: Justin Ridgewell
+│  ├─ email: justin@ridgewell.name
+│  ├─ path: /home/runner/work/website/website/node_modules/@jridgewell/resolve-uri
+│  └─ licenseFile: node_modules/@jridgewell/resolve-uri/LICENSE
+├─ @jridgewell/sourcemap-codec@1.5.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jridgewell/sourcemaps
+│  ├─ publisher: Justin Ridgewell
+│  ├─ email: justin@ridgewell.name
+│  ├─ path: /home/runner/work/website/website/node_modules/@jridgewell/sourcemap-codec
+│  └─ licenseFile: node_modules/@jridgewell/sourcemap-codec/LICENSE
+├─ @jridgewell/trace-mapping@0.3.31
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jridgewell/sourcemaps
+│  ├─ publisher: Justin Ridgewell
+│  ├─ email: justin@ridgewell.name
+│  ├─ path: /home/runner/work/website/website/node_modules/@jridgewell/trace-mapping
+│  └─ licenseFile: node_modules/@jridgewell/trace-mapping/LICENSE
+├─ @nodelib/fs.scandir@2.1.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.scandir
+│  ├─ path: /home/runner/work/website/website/node_modules/@nodelib/fs.scandir
+│  └─ licenseFile: node_modules/@nodelib/fs.scandir/LICENSE
+├─ @nodelib/fs.stat@2.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.stat
+│  ├─ path: /home/runner/work/website/website/node_modules/@nodelib/fs.stat
+│  └─ licenseFile: node_modules/@nodelib/fs.stat/LICENSE
+├─ @nodelib/fs.walk@1.2.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.walk
+│  ├─ path: /home/runner/work/website/website/node_modules/@nodelib/fs.walk
+│  └─ licenseFile: node_modules/@nodelib/fs.walk/LICENSE
+├─ @tailwindcss/typography@0.5.20
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/tailwindlabs/tailwindcss-typography
 │  ├─ path: /home/runner/work/website/website/node_modules/@tailwindcss/typography
@@ -17,20 +73,510 @@
 │  ├─ email: aminyahyaabadi74@gmail.com
 │  ├─ path: /home/runner/work/website/website
 │  └─ licenseFile: LICENSE.txt
-├─ latex.css@1.12.0
+├─ any-promise@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kevinbeaty/any-promise
+│  ├─ publisher: Kevin Beaty
+│  ├─ path: /home/runner/work/website/website/node_modules/any-promise
+│  └─ licenseFile: node_modules/any-promise/LICENSE
+├─ anymatch@3.1.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/micromatch/anymatch
+│  ├─ publisher: Elan Shanker
+│  ├─ url: https://github.com/es128
+│  ├─ path: /home/runner/work/website/website/node_modules/anymatch
+│  └─ licenseFile: node_modules/anymatch/LICENSE
+├─ arg@5.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/arg
+│  ├─ publisher: Josh Junon
+│  ├─ email: junon@wavetilt.com
+│  ├─ path: /home/runner/work/website/website/node_modules/arg
+│  └─ licenseFile: node_modules/arg/LICENSE.md
+├─ binary-extensions@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/binary-extensions
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: /home/runner/work/website/website/node_modules/binary-extensions
+│  └─ licenseFile: node_modules/binary-extensions/license
+├─ braces@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/braces
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /home/runner/work/website/website/node_modules/braces
+│  └─ licenseFile: node_modules/braces/LICENSE
+├─ camelcase-css@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stevenvachon/camelcase-css
+│  ├─ publisher: Steven Vachon
+│  ├─ email: contact@svachon.com
+│  ├─ url: https://www.svachon.com/
+│  ├─ path: /home/runner/work/website/website/node_modules/camelcase-css
+│  └─ licenseFile: node_modules/camelcase-css/license
+├─ chokidar@3.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/paulmillr/chokidar
+│  ├─ publisher: Paul Miller
+│  ├─ url: https://paulmillr.com
+│  ├─ path: /home/runner/work/website/website/node_modules/tailwindcss/node_modules/chokidar
+│  └─ licenseFile: node_modules/tailwindcss/node_modules/chokidar/LICENSE
+├─ commander@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tj/commander.js
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: /home/runner/work/website/website/node_modules/sucrase/node_modules/commander
+│  └─ licenseFile: node_modules/sucrase/node_modules/commander/LICENSE
+├─ cssesc@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/cssesc
+│  ├─ publisher: Mathias Bynens
+│  ├─ url: https://mathiasbynens.be/
+│  ├─ path: /home/runner/work/website/website/node_modules/cssesc
+│  └─ licenseFile: node_modules/cssesc/LICENSE-MIT.txt
+├─ csstype@3.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/frenic/csstype
+│  ├─ publisher: Fredrik Nicol
+│  ├─ email: fredrik.nicol@gmail.com
+│  ├─ path: /home/runner/work/website/website/node_modules/csstype
+│  └─ licenseFile: node_modules/csstype/LICENSE
+├─ didyoumean@1.2.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/dcporter/didyoumean.js
+│  ├─ publisher: Dave Porter
+│  ├─ email: dcporter@gmail.com
+│  ├─ url: http://dcporter.net/
+│  ├─ path: /home/runner/work/website/website/node_modules/didyoumean
+│  └─ licenseFile: node_modules/didyoumean/LICENSE
+├─ dlv@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/developit/dlv
+│  ├─ publisher: Jason Miller
+│  ├─ email: jason@developit.ca
+│  ├─ url: http://jasonformat.com
+│  ├─ path: /home/runner/work/website/website/node_modules/dlv
+│  └─ licenseFile: node_modules/dlv/README.md
+├─ es-errors@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/es-errors
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /home/runner/work/website/website/node_modules/es-errors
+│  └─ licenseFile: node_modules/es-errors/LICENSE
+├─ esbuild@0.28.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/evanw/esbuild
+│  ├─ path: /home/runner/work/website/website/node_modules/esbuild
+│  └─ licenseFile: node_modules/esbuild/LICENSE.md
+├─ fast-glob@3.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mrmlnc/fast-glob
+│  ├─ publisher: Denis Malinochkin
+│  ├─ url: https://mrmlnc.com
+│  ├─ path: /home/runner/work/website/website/node_modules/fast-glob
+│  └─ licenseFile: node_modules/fast-glob/LICENSE
+├─ fastq@1.20.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/mcollina/fastq
+│  ├─ publisher: Matteo Collina
+│  ├─ email: hello@matteocollina.com
+│  ├─ path: /home/runner/work/website/website/node_modules/fastq
+│  └─ licenseFile: node_modules/fastq/LICENSE
+├─ fdir@6.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thecodrr/fdir
+│  ├─ publisher: thecodrr
+│  ├─ email: thecodrr@protonmail.com
+│  ├─ path: /home/runner/work/website/website/node_modules/fdir
+│  └─ licenseFile: node_modules/fdir/LICENSE
+├─ fill-range@7.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/fill-range
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /home/runner/work/website/website/node_modules/fill-range
+│  └─ licenseFile: node_modules/fill-range/LICENSE
+├─ function-bind@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/function-bind
+│  ├─ publisher: Raynos
+│  ├─ email: raynos2@gmail.com
+│  ├─ path: /home/runner/work/website/website/node_modules/function-bind
+│  └─ licenseFile: node_modules/function-bind/LICENSE
+├─ glob-parent@5.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/gulpjs/glob-parent
+│  ├─ publisher: Gulp Team
+│  ├─ email: team@gulpjs.com
+│  ├─ url: https://gulpjs.com/
+│  ├─ path: /home/runner/work/website/website/node_modules/tailwindcss/node_modules/chokidar/node_modules/glob-parent
+│  └─ licenseFile: node_modules/tailwindcss/node_modules/chokidar/node_modules/glob-parent/LICENSE
+├─ glob-parent@6.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/gulpjs/glob-parent
+│  ├─ publisher: Gulp Team
+│  ├─ email: team@gulpjs.com
+│  ├─ url: https://gulpjs.com/
+│  ├─ path: /home/runner/work/website/website/node_modules/tailwindcss/node_modules/glob-parent
+│  └─ licenseFile: node_modules/tailwindcss/node_modules/glob-parent/LICENSE
+├─ hasown@2.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/hasOwn
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /home/runner/work/website/website/node_modules/hasown
+│  └─ licenseFile: node_modules/hasown/LICENSE
+├─ is-binary-path@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-binary-path
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /home/runner/work/website/website/node_modules/is-binary-path
+│  └─ licenseFile: node_modules/is-binary-path/license
+├─ is-core-module@2.16.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-core-module
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /home/runner/work/website/website/node_modules/is-core-module
+│  └─ licenseFile: node_modules/is-core-module/LICENSE
+├─ is-extglob@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-extglob
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /home/runner/work/website/website/node_modules/is-extglob
+│  └─ licenseFile: node_modules/is-extglob/LICENSE
+├─ is-glob@4.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/is-glob
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /home/runner/work/website/website/node_modules/is-glob
+│  └─ licenseFile: node_modules/is-glob/LICENSE
+├─ is-number@7.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-number
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /home/runner/work/website/website/node_modules/is-number
+│  └─ licenseFile: node_modules/is-number/LICENSE
+├─ jiti@1.21.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/unjs/jiti
+│  ├─ path: /home/runner/work/website/website/node_modules/jiti
+│  └─ licenseFile: node_modules/jiti/LICENSE
+├─ latex.css@1.14.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/vincentdoerig/latex-css
 │  ├─ publisher: Vincent Dörig
 │  ├─ path: /home/runner/work/website/website/node_modules/latex.css
 │  └─ licenseFile: node_modules/latex.css/LICENSE
-├─ solid-js@1.9.1
+├─ lilconfig@3.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/antonk52/lilconfig
+│  ├─ publisher: antonk52
+│  ├─ path: /home/runner/work/website/website/node_modules/lilconfig
+│  └─ licenseFile: node_modules/lilconfig/LICENSE
+├─ lines-and-columns@1.2.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/eventualbuddha/lines-and-columns
+│  ├─ publisher: Brian Donovan
+│  ├─ email: brian@donovans.cc
+│  ├─ path: /home/runner/work/website/website/node_modules/lines-and-columns
+│  └─ licenseFile: node_modules/lines-and-columns/LICENSE
+├─ merge2@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/teambition/merge2
+│  ├─ path: /home/runner/work/website/website/node_modules/merge2
+│  └─ licenseFile: node_modules/merge2/LICENSE
+├─ micromatch@4.0.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/micromatch
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /home/runner/work/website/website/node_modules/micromatch
+│  └─ licenseFile: node_modules/micromatch/LICENSE
+├─ mz@2.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/normalize/mz
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: /home/runner/work/website/website/node_modules/mz
+│  └─ licenseFile: node_modules/mz/LICENSE
+├─ nanoid@3.3.18
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ai/nanoid
+│  ├─ publisher: Andrey Sitnik
+│  ├─ email: andrey@sitnik.ru
+│  ├─ path: /home/runner/work/website/website/node_modules/nanoid
+│  └─ licenseFile: node_modules/nanoid/LICENSE
+├─ normalize-path@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/normalize-path
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /home/runner/work/website/website/node_modules/normalize-path
+│  └─ licenseFile: node_modules/normalize-path/LICENSE
+├─ object-assign@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/object-assign
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /home/runner/work/website/website/node_modules/object-assign
+│  └─ licenseFile: node_modules/object-assign/license
+├─ object-hash@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/puleos/object-hash
+│  ├─ publisher: Scott Puleo
+│  ├─ email: puleos@gmail.com
+│  ├─ path: /home/runner/work/website/website/node_modules/object-hash
+│  └─ licenseFile: node_modules/object-hash/LICENSE
+├─ path-parse@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jbgutierrez/path-parse
+│  ├─ publisher: Javier Blanco
+│  ├─ email: http://jbgutierrez.info
+│  ├─ path: /home/runner/work/website/website/node_modules/path-parse
+│  └─ licenseFile: node_modules/path-parse/LICENSE
+├─ picocolors@1.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/alexeyraspopov/picocolors
+│  ├─ publisher: Alexey Raspopov
+│  ├─ path: /home/runner/work/website/website/node_modules/picocolors
+│  └─ licenseFile: node_modules/picocolors/LICENSE
+├─ picomatch@2.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/picomatch
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /home/runner/work/website/website/node_modules/anymatch/node_modules/picomatch
+│  └─ licenseFile: node_modules/anymatch/node_modules/picomatch/LICENSE
+├─ picomatch@4.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/picomatch
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /home/runner/work/website/website/node_modules/picomatch
+│  └─ licenseFile: node_modules/picomatch/LICENSE
+├─ pify@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/pify
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: /home/runner/work/website/website/node_modules/pify
+│  └─ licenseFile: node_modules/pify/license
+├─ pirates@4.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/danez/pirates
+│  ├─ publisher: Ari Porad
+│  ├─ email: ari@ariporad.com
+│  ├─ url: http://ariporad.com
+│  ├─ path: /home/runner/work/website/website/node_modules/pirates
+│  └─ licenseFile: node_modules/pirates/LICENSE
+├─ postcss-import@15.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-import
+│  ├─ publisher: Maxime Thirouin
+│  ├─ path: /home/runner/work/website/website/node_modules/postcss-import
+│  └─ licenseFile: node_modules/postcss-import/LICENSE
+├─ postcss-js@4.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-js
+│  ├─ publisher: Andrey Sitnik
+│  ├─ email: andrey@sitnik.ru
+│  ├─ path: /home/runner/work/website/website/node_modules/postcss-js
+│  └─ licenseFile: node_modules/postcss-js/LICENSE
+├─ postcss-load-config@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-load-config
+│  ├─ publisher: Michael Ciniawky
+│  ├─ email: michael.ciniawsky@gmail.com
+│  ├─ path: /home/runner/work/website/website/node_modules/tailwindcss/node_modules/postcss-load-config
+│  └─ licenseFile: node_modules/tailwindcss/node_modules/postcss-load-config/LICENSE
+├─ postcss-nested@6.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-nested
+│  ├─ publisher: Andrey Sitnik
+│  ├─ email: andrey@sitnik.ru
+│  ├─ path: /home/runner/work/website/website/node_modules/postcss-nested
+│  └─ licenseFile: node_modules/postcss-nested/LICENSE
+├─ postcss-selector-parser@6.0.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-selector-parser
+│  ├─ path: /home/runner/work/website/website/node_modules/@tailwindcss/typography/node_modules/postcss-selector-parser
+│  └─ licenseFile: node_modules/@tailwindcss/typography/node_modules/postcss-selector-parser/LICENSE-MIT
+├─ postcss-selector-parser@6.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss-selector-parser
+│  ├─ path: /home/runner/work/website/website/node_modules/postcss-selector-parser
+│  └─ licenseFile: node_modules/postcss-selector-parser/LICENSE-MIT
+├─ postcss-value-parser@4.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TrySound/postcss-value-parser
+│  ├─ publisher: Bogdan Chadkin
+│  ├─ email: trysound@yandex.ru
+│  ├─ path: /home/runner/work/website/website/node_modules/postcss-value-parser
+│  └─ licenseFile: node_modules/postcss-value-parser/LICENSE
+├─ postcss@8.5.26
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss
+│  ├─ publisher: Andrey Sitnik
+│  ├─ email: andrey@sitnik.es
+│  ├─ path: /home/runner/work/website/website/node_modules/postcss
+│  └─ licenseFile: node_modules/postcss/LICENSE
+├─ queue-microtask@1.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/queue-microtask
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: /home/runner/work/website/website/node_modules/queue-microtask
+│  └─ licenseFile: node_modules/queue-microtask/LICENSE
+├─ read-cache@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TrySound/read-cache
+│  ├─ publisher: Bogdan Chadkin
+│  ├─ email: trysound@yandex.ru
+│  ├─ path: /home/runner/work/website/website/node_modules/read-cache
+│  └─ licenseFile: node_modules/read-cache/LICENSE
+├─ readdirp@3.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/paulmillr/readdirp
+│  ├─ publisher: Thorsten Lorenz
+│  ├─ email: thlorenz@gmx.de
+│  ├─ url: thlorenz.com
+│  ├─ path: /home/runner/work/website/website/node_modules/tailwindcss/node_modules/chokidar/node_modules/readdirp
+│  └─ licenseFile: node_modules/tailwindcss/node_modules/chokidar/node_modules/readdirp/LICENSE
+├─ resolve@1.22.12
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserify/resolve
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: /home/runner/work/website/website/node_modules/resolve
+│  └─ licenseFile: node_modules/resolve/LICENSE
+├─ reusify@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mcollina/reusify
+│  ├─ publisher: Matteo Collina
+│  ├─ email: hello@matteocollina.com
+│  ├─ path: /home/runner/work/website/website/node_modules/reusify
+│  └─ licenseFile: node_modules/reusify/LICENSE
+├─ run-parallel@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/run-parallel
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: /home/runner/work/website/website/node_modules/run-parallel
+│  └─ licenseFile: node_modules/run-parallel/LICENSE
+├─ seroval-plugins@1.5.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lxsmnsyc/seroval
+│  ├─ publisher: Alexis Munsayac
+│  ├─ path: /home/runner/work/website/website/node_modules/seroval-plugins
+│  └─ licenseFile: node_modules/seroval-plugins/LICENSE
+├─ seroval@1.5.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lxsmnsyc/seroval
+│  ├─ publisher: Alexis Munsayac
+│  ├─ path: /home/runner/work/website/website/node_modules/seroval
+│  └─ licenseFile: node_modules/seroval/LICENSE
+├─ solid-js@1.9.14
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/solidjs/solid
 │  ├─ publisher: Ryan Carniato
 │  ├─ path: /home/runner/work/website/website/node_modules/solid-js
 │  └─ licenseFile: node_modules/solid-js/LICENSE
-└─ tailwindcss@3.4.13
-   ├─ licenses: MIT
-   ├─ repository: https://github.com/tailwindlabs/tailwindcss
-   ├─ path: /home/runner/work/website/website/node_modules/tailwindcss
-   └─ licenseFile: node_modules/tailwindcss/LICENSE
+├─ source-map-js@1.2.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/7rulnik/source-map-js
+│  ├─ publisher: Valentin 7rulnik Semirulnik
+│  ├─ email: v7rulnik@gmail.com
+│  ├─ path: /home/runner/work/website/website/node_modules/source-map-js
+│  └─ licenseFile: node_modules/source-map-js/LICENSE
+├─ sucrase@3.35.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/alangpierce/sucrase
+│  ├─ publisher: Alan Pierce
+│  ├─ email: alangpierce@gmail.com
+│  ├─ path: /home/runner/work/website/website/node_modules/sucrase
+│  └─ licenseFile: node_modules/sucrase/LICENSE
+├─ supports-preserve-symlinks-flag@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/node-supports-preserve-symlinks-flag
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /home/runner/work/website/website/node_modules/supports-preserve-symlinks-flag
+│  └─ licenseFile: node_modules/supports-preserve-symlinks-flag/LICENSE
+├─ tailwindcss@3.4.19
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tailwindlabs/tailwindcss.git#v3
+│  ├─ path: /home/runner/work/website/website/node_modules/tailwindcss
+│  └─ licenseFile: node_modules/tailwindcss/LICENSE
+├─ thenify-all@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thenables/thenify-all
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: /home/runner/work/website/website/node_modules/thenify-all
+│  └─ licenseFile: node_modules/thenify-all/LICENSE
+├─ thenify@3.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thenables/thenify
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: /home/runner/work/website/website/node_modules/thenify
+│  └─ licenseFile: node_modules/thenify/LICENSE
+├─ tinyglobby@0.2.17
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/SuperchupuDev/tinyglobby
+│  ├─ publisher: Superchupu
+│  ├─ path: /home/runner/work/website/website/node_modules/tinyglobby
+│  └─ licenseFile: node_modules/tinyglobby/LICENSE
+├─ to-regex-range@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/to-regex-range
+│  ├─ publisher: Jon Schlinkert
+│  ├─ url: https://github.com/jonschlinkert
+│  ├─ path: /home/runner/work/website/website/node_modules/to-regex-range
+│  └─ licenseFile: node_modules/to-regex-range/LICENSE
+├─ ts-interface-checker@0.1.13
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/gristlabs/ts-interface-checker
+│  ├─ publisher: Dmitry S, Grist Labs
+│  ├─ path: /home/runner/work/website/website/node_modules/ts-interface-checker
+│  └─ licenseFile: node_modules/ts-interface-checker/LICENSE
+├─ tsx@4.23.12
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/privatenumber/tsx
+│  ├─ publisher: Hiroki Osame
+│  ├─ email: hiroki.osame@gmail.com
+│  ├─ path: /home/runner/work/website/website/node_modules/tsx
+│  └─ licenseFile: node_modules/tsx/LICENSE
+├─ util-deprecate@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/util-deprecate
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: /home/runner/work/website/website/node_modules/util-deprecate
+│  └─ licenseFile: node_modules/util-deprecate/LICENSE
+└─ yaml@2.9.0
+   ├─ licenses: ISC
+   ├─ repository: https://github.com/eemeli/yaml
+   ├─ publisher: Eemeli Aro
+   ├─ email: eemeli@gmail.com
+   ├─ path: /home/runner/work/website/website/node_modules/yaml
+   └─ licenseFile: node_modules/yaml/LICENSE
