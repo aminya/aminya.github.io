@@ -44,6 +44,7 @@
   "fs-extra": "^11.4.0",
   "gh-pages": "^6.3.0",
   "globify-gitignore": "^1.0.3",
+  "htmlnano": "^3.4.0",
   "license-checker": "^25.0.1",
   "lightningcss": "^1.33.0",
   "lite-youtube-embed": "^0.3.4",
